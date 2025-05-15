@@ -1,0 +1,7 @@
+numpy
+panda
+seaborn
+xgboost
+shap
+sklearn
+tensorflow
